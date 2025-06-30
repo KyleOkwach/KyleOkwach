@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kyle and I'm a Data Scientist/Engineer, from Kenya</h2>
+<h2 align="left">Hi 👋! My name is Kyle and I'm a SOftware Engineer, from Kenya</h2>
 
 ###
 
